@@ -1,0 +1,4 @@
+name: PageBoost
+markdown: redcarpet
+highlighter: pygments
+destination: _site
